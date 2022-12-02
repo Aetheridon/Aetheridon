@@ -4,3 +4,5 @@ Hey, I'm Lewis
 </h1>
 - Experience working with Linux (Mainly Debian based systems)<br />
 - Experience with automating tasks and making cool applications with Python.
+
+if you want to contact me --> Aetheridon#0001
