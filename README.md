@@ -1,6 +1,7 @@
 # Hey, I'm Aetheridon.
 
 - 💻 Backend Developer
+- 📊 Data Scientist
 - 🤖 Interested in AI / ML
 - 🚀 Entrepreneur
 - 🏀 Basketball player & Boston Celtics fan
